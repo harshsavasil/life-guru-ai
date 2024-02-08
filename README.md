@@ -1,4 +1,4 @@
-# Sruti-ai (: Ancient Wisdom at Your Fingertips)
+# Sruti-ai (Ancient Wisdom at Your Fingertips)
 
 ## Description
 
